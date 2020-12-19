@@ -1,4 +1,4 @@
 # CRUD Tasks
-CRUD muy simple con Express y MongoDb solo get y post (sin put o delete)
+CRUD very simple with Express and MongoDb only get y post (without put or delete)
 
 
